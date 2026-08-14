@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Ассистент Multi-Point DEMO
 // @namespace    http://tampermonkey.net/
-// @version      1.38
+// @version      1.39
 // @description  Управление заказами, ячейками, историей, менеджером модулей; единая панель выдачи (выдача + автоподсчёт/отказы + бесплатный озон + Яндекс Маркет выкуп + касса с инкассацией); синхронизация с npoint
 // @match        https://operator.multi-point.org/*
 // @grant        GM_setValue
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
 // @connect      api.npoint.io
-// @updateURL    https://github.com/NikitaUmpelev/multi-point-assistant/raw/refs/heads/main/mpv.user.js
-// @downloadURL  https://github.com/NikitaUmpelev/multi-point-assistant/raw/refs/heads/main/mpv.user.js
+// @updateURL    https://raw.githubusercontent.com/NikitaUmpelev/multi-point-assistant/main/mpv.user.js
+// @downloadURL  https://raw.githubusercontent.com/NikitaUmpelev/multi-point-assistant/main/mpv.user.js
 // ==/UserScript==
 
 (function() {
