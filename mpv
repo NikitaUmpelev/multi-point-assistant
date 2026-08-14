@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Ассистент Multi-Point DEMO
 // @namespace    http://tampermonkey.net/
-// @version      1.32
+// @version      1.33
 // @description  Управление заказами, ячейками, историей, менеджером модулей; единая панель выдачи (выдача + автоподсчёт/отказы + бесплатный озон + Яндекс Маркет выкуп + касса с инкассацией); синхронизация с npoint
 // @match        https://operator.multi-point.org/*
 // @grant        GM_setValue
