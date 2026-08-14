@@ -8,8 +8,8 @@
 // @grant        GM_getValue
 // @grant        GM_xmlhttpRequest
 // @connect      api.npoint.io
-// @updateURL    https://raw.githubusercontent.com/NikitaUmpelev/multi-point-assistant/raw/refs/heads/main/mpv.user.js
-// @downloadURL  https://raw.githubusercontent.com/NikitaUmpelev/multi-point-assistant/raw/refs/heads/main/mpv.user.js
+// @updateURL    https://github.com/NikitaUmpelev/multi-point-assistant/raw/refs/heads/main/mpv.user.js
+// @downloadURL  https://github.com/NikitaUmpelev/multi-point-assistant/raw/refs/heads/main/mpv.user.js
 // ==/UserScript==
 
 (function() {
